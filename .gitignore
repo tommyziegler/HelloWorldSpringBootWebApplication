@@ -1,5 +1,10 @@
+# Eclipse / STS settings folder
 .classpath
 .project
 .settings
+
+# Macintosh settings folder
 .DS_Store
+
+# Maven build output folder
 /target
