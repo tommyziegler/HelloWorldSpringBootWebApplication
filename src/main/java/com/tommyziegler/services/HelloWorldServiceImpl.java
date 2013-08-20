@@ -3,7 +3,7 @@ package com.tommyziegler.services;
 import org.springframework.stereotype.Service;
 
 /**
- * 
+ * The implementation of the Hello World Service
  * 
  * @author tommyziegler
  */

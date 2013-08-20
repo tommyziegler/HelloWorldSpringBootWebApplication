@@ -6,12 +6,6 @@
     <groupId>com.tommyziegler</groupId>
     <artifactId>HelloWorldSpringBootWebApplication</artifactId>
     <version>0.0.2-SNAPSHOT</version>
-
-	<!--     
-    <properties>
-    	<spring-boot.version>0.5.0.M1</spring-boot.version>
-    </properties>
-    -->
      
     <!-- Inherit defaults from Spring Boot -->
     <parent>
@@ -25,7 +19,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>  
+        </dependency>
     </dependencies>
 
     <!-- Package as an executable JAR -->

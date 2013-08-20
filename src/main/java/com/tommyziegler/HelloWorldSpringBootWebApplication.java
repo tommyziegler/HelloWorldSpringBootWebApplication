@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 /**
  * @author tommyziegler.com
  * 
- *         This example
+ *         This is the Main Bootstrap class for the spring-boot project
  * 
  * 
  */
